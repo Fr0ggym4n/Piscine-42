@@ -1,0 +1,5 @@
+Credentials cache: API:1B57E4A0-D701-4E77-A930-7D61D5909CD1
+        Principal: chcampet@42.FR
+
+  Issued                Expires               Principal
+Sep  7 19:16:55 2020  Sep 14 19:16:55 2020  krbtgt/42.FR@42.FR 
